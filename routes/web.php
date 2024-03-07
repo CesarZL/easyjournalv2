@@ -27,3 +27,5 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function () {
         return view('pages/utility/404');
     });    
 });
+
+// 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
